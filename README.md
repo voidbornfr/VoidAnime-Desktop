@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/github/license/voidbornfr/VoidAnime-Desktop?style=for-the-badge&color=orange)](LICENSE)
 
 <p align="center">
-  <img src="preview/Screenshot 2025-12-25 170827.png" alt="VoidAnime Home" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);">
+  <img src="preview/Screenshot 2025-12-25 170933.png" alt="VoidAnime Home" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);">
 </p>
 
 </div>
