@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/github/license/voidbornfr/VoidAnime-Desktop?style=for-the-badge&color=orange)](LICENSE)
 
 <p align="center">
-  <img src="preview/Screenshot 2025-12-25 170933.png" alt="VoidAnime Home" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);">
+  <img src="preview/Screenshot 2025-12-25 170827.png" alt="VoidAnime Home" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);">
 </p>
 
 </div>
@@ -58,15 +58,22 @@ Experience your favorite series like never before with 4K upscaling, torrent str
 Dive into the Void.
 
 <div align="center">
-  <img src="preview/Screenshot 2025-12-24 150118.png" alt="Anime Details" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-25 170933.png" alt="Music Player" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-24 150030.png" alt="Settings" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-24 211417.png" alt="Downloads" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-24 145952.png" alt="Preview 1" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-24 150038.png" alt="Preview 2" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-24 150046.png" alt="Preview 3" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-24 150054.png" alt="Preview 4" width="45%" style="margin: 5px; border-radius: 8px;">
-  <img src="preview/Screenshot 2025-12-25 170827.png" alt="Preview 5" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 103229.png" alt="Screenshot 2026-01-11 103229" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104118.png" alt="Screenshot 2026-01-11 104118" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104144.png" alt="Screenshot 2026-01-11 104144" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104202.png" alt="Screenshot 2026-01-11 104202" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104226.png" alt="Screenshot 2026-01-11 104226" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104300.png" alt="Screenshot 2026-01-11 104300" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104315.png" alt="Screenshot 2026-01-11 104315" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104333.png" alt="Screenshot 2026-01-11 104333" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104616.png" alt="Screenshot 2026-01-11 104616" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104631.png" alt="Screenshot 2026-01-11 104631" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104732.png" alt="Screenshot 2026-01-11 104732" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104805.png" alt="Screenshot 2026-01-11 104805" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104830.png" alt="Screenshot 2026-01-11 104830" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104843.png" alt="Screenshot 2026-01-11 104843" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104858.png" alt="Screenshot 2026-01-11 104858" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2026-01-11 104951.png" alt="Screenshot 2026-01-11 104951" width="45%" style="margin: 5px; border-radius: 8px;">
 </div>
 
 
