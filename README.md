@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/github/license/voidbornfr/VoidAnime-Desktop?style=for-the-badge&color=orange)](LICENSE)
 
 <p align="center">
-  <img src="preview/Screenshot 2025-12-25 170827.png" alt="VoidAnime Home" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);">
+  <img src="preview/Screenshot 2026-01-11 103229.png" alt="VoidAnime Home" width="90%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);">
 </p>
 
 </div>
@@ -58,7 +58,7 @@ Experience your favorite series like never before with 4K upscaling, torrent str
 Dive into the Void.
 
 <div align="center">
-  <img src="preview/Screenshot 2026-01-11 103229.png" alt="Screenshot 2026-01-11 103229" width="45%" style="margin: 5px; border-radius: 8px;">
+  <img src="preview/Screenshot 2025-12-25 170827.png" alt="Screenshot 2026-01-11 103229" width="45%" style="margin: 5px; border-radius: 8px;">
   <img src="preview/Screenshot 2026-01-11 104118.png" alt="Screenshot 2026-01-11 104118" width="45%" style="margin: 5px; border-radius: 8px;">
   <img src="preview/Screenshot 2026-01-11 104144.png" alt="Screenshot 2026-01-11 104144" width="45%" style="margin: 5px; border-radius: 8px;">
   <img src="preview/Screenshot 2026-01-11 104202.png" alt="Screenshot 2026-01-11 104202" width="45%" style="margin: 5px; border-radius: 8px;">
